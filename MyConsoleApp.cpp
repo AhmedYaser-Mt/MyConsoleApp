@@ -8,8 +8,7 @@ void main()
     cout << "Hello World from C++ App!\n";
     cout << "Hello World from C++ App!\n";
     cout << "Hello World from C++ App!aaaaaaaa\n";
-    cout << "Hello World from C++ App!\n";
-    cout << "Hello World from C++ App!\n";
+    cout << "Hello World from C++ App!333333333333\n";
     cout << "Hello World from C++ App!\n";
     cout << "Hello World from C++ App!\n";
     cout << "Hello World from C++ App!\n";
