@@ -3,6 +3,6 @@ using namespace std;
 
 void main()
 {
-    cout << "Hello world!\n";
-    cout << "Password : Not Allowed to show\n";
+    cout << "Helo world!\n";
+    cout << "Pasword : Not Allowed to show\n";
 }
