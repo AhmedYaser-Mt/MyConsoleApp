@@ -11,4 +11,5 @@ void main()
     cout << "Line 2";
     cout << "Line 3";
     cout << "Feature 1";
+    cout << "Feature 2";
 }
