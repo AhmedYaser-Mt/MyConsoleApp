@@ -7,4 +7,7 @@ void main()
     cout << "Password : Not Allowed to show\n";
     cout << "Goodbye From App!\n";
     cout << "Line";
+    cout << "Line 1";
+    cout << "Line 2";
+    cout << "Line 3";
 }
