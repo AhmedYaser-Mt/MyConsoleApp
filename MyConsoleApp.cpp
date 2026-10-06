@@ -15,6 +15,11 @@ void main()
     cout << "Feature 3";
     cout << "Feature 4";
     cout << "Feature 5";
+    cout << "Feature 1";
+    cout << "Feature 2";
+    cout << "Feature 3";
+    cout << "Feature 4";
+    cout << "Feature 5";
     cout << "Another Change";
     cout << "Another Change 2";
 }
