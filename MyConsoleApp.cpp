@@ -27,4 +27,5 @@ void main()
     cout << "Feature Branch";
     cout << "Main Branch";
     cout << "New Change";
+    cout << "New Change 2";
 }
