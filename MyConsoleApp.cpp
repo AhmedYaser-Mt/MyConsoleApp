@@ -9,10 +9,13 @@ void main()
     cout << "Line";
     cout << "Line 1";
     cout << "Line 2";
-    cout << "Line 3";
-    cout << "Feature 1";
+
+    //cout << "Feature 1";
     cout << "Feature 2";
     cout << "Feature 3";
     cout << "Feature 4";
     cout << "Feature 5";
+
+
+    cout << "Feature 6";
 }
