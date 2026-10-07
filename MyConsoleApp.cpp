@@ -20,4 +20,8 @@ void main()
     cout << "Feature 6";
 
     cout << "Feature 7";
+
+    cout << "Feature 8";
+    cout << "Feature 9";
+    cout << "Feature 10";
 }
