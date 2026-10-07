@@ -18,4 +18,6 @@ void main()
 
 
     cout << "Feature 6";
+
+    cout << "Feature 7";
 }
